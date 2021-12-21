@@ -58,7 +58,6 @@ C:\Users\User\source\repos\StratoItGroup\obj\Debug\net6.0\staticwebassets.develo
 C:\Users\User\source\repos\StratoItGroup\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\User\source\repos\StratoItGroup\obj\Debug\net6.0\scopedcss\bundle\StratoItGroup.styles.css
 C:\Users\User\source\repos\StratoItGroup\obj\Debug\net6.0\scopedcss\projectbundle\StratoItGroup.bundle.scp.css
-C:\Users\User\source\repos\StratoItGroup\obj\Debug\net6.0\StratoItGroup.csproj.CopyComplete
 C:\Users\User\source\repos\StratoItGroup\obj\Debug\net6.0\StratoItGroup.dll
 C:\Users\User\source\repos\StratoItGroup\obj\Debug\net6.0\ref\StratoItGroup.dll
 C:\Users\User\source\repos\StratoItGroup\obj\Debug\net6.0\StratoItGroup.pdb

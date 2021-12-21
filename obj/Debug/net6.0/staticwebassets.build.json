@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b0j9POr/YZUnNiQzyHQ30jf2uB0m5xEA9husYBjX798=",
+  "Hash": "pRGXRkr0n5mkv26Vjn/AYqUe4pCcUQSOiUaemZ10dzc=",
   "Source": "StratoItGroup",
   "BasePath": "_content/StratoItGroup",
   "Mode": "Default",
@@ -1071,6 +1071,40 @@
       "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\StratoItGroup\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StratoItGroup.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\Banner-favicon.ico",
+      "SourceId": "StratoItGroup",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\",
+      "BasePath": "_content/StratoItGroup",
+      "RelativePath": "Banner-favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Banner-favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\Banner.png",
+      "SourceId": "StratoItGroup",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\",
+      "BasePath": "_content/StratoItGroup",
+      "RelativePath": "Banner.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Banner.png"
+    },
+    {
       "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\css\\site.css",
       "SourceId": "StratoItGroup",
       "SourceType": "Discovered",
@@ -2089,6 +2123,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\LogoIcone.ico",
+      "SourceId": "StratoItGroup",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\",
+      "BasePath": "_content/StratoItGroup",
+      "RelativePath": "LogoIcone.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LogoIcone.ico"
     }
   ]
 }
