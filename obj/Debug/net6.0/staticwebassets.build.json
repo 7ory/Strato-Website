@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pRGXRkr0n5mkv26Vjn/AYqUe4pCcUQSOiUaemZ10dzc=",
+  "Hash": "vuUmgGzRACXIMrz1fk8pb9rrb7DPCc3Jfuki6Tf+y5k=",
   "Source": "StratoItGroup",
   "BasePath": "_content/StratoItGroup",
   "Mode": "Default",
@@ -1071,12 +1071,12 @@
       "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\StratoItGroup\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StratoItGroup.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\Banner-favicon.ico",
+      "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\Banner2.jpg",
       "SourceId": "StratoItGroup",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\",
       "BasePath": "_content/StratoItGroup",
-      "RelativePath": "Banner-favicon.ico",
+      "RelativePath": "Banner2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Banner-favicon.ico"
+      "OriginalItemSpec": "wwwroot\\Banner2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\Banner.png",
+      "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\css\\Card.css",
       "SourceId": "StratoItGroup",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\",
       "BasePath": "_content/StratoItGroup",
-      "RelativePath": "Banner.png",
+      "RelativePath": "css/Card.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,7 +1102,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Banner.png"
+      "OriginalItemSpec": "wwwroot\\css\\Card.css"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\css\\site.css",
@@ -2140,6 +2140,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\LogoIcone.ico"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\Strato logo.webp",
+      "SourceId": "StratoItGroup",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\StratoItGroup\\wwwroot\\",
+      "BasePath": "_content/StratoItGroup",
+      "RelativePath": "Strato logo.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Strato logo.webp"
     }
   ]
 }
