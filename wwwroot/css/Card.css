@@ -7,9 +7,10 @@ body {
     font-family: 'Luxurious Roman', cursive;
 }
 
-.card-list{
-    display:flex;
+.card-list {
+    display: flex;
     padding: 3rem;
+    padding-left: 150px;
     overflow-x: scroll;
 }
 
