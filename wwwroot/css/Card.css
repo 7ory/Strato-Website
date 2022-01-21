@@ -5,6 +5,7 @@ body {
     background-color: #17141d;
     color: white;
     font-family: 'Luxurious Roman', cursive;
+    text-align: left;
 }
 
 .card-list {
@@ -58,4 +59,6 @@ body {
     margin-left: -130px;
 }
 
-
+.navbar-toggler-icon{
+    color:red;
+}

@@ -33,6 +33,11 @@
 
   <ItemGroup>
     <None Include="Components\Customers.razor" />
+    <None Include="wwwroot\Images\Banner.png" />
+    <None Include="wwwroot\Images\CLOSETE%27S.png" />
+    <None Include="wwwroot\Images\NilFisk.png" />
+    <None Include="wwwroot\Images\POLYOAK.png" />
+    <None Include="wwwroot\Images\PFG.png" />
   </ItemGroup>
 
 </Project>
